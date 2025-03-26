@@ -93,7 +93,7 @@ This project is for educational purposes. Feel free to modify and enhance it as 
 
 ---
 
-### Credits
+## Credits
 
 - Harshit Soni - https://github.com/Harshit-Soni78 -- For source code for Model Training as well as Model Implementation on GUI
 
