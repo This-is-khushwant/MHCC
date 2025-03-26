@@ -93,6 +93,14 @@ This project is for educational purposes. Feel free to modify and enhance it as 
 
 ---
 
+### Credits
+
+- Harshit Soni - https://github.com/Harshit-Soni78
+For source code for Model Training as well as Model Implementation on GUI
+
+- ChatGPT by openAI
+---
+
 **Author:** Khushwant Mehra
 **Contact:** kmehra.sengg@gmail.com
 **Github:** https://github.com/This-is-khushwant
